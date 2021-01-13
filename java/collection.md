@@ -178,6 +178,7 @@ HashMap实现原理：
 
  - http://blog.csdn.net/vking_wang/article/details/14166593
  - [美团点评][Java 8系列之重新认识HashMap](https://tech.meituan.com/java-hashmap.html) | 写的比较好
+ - [红黑树原理] https://www.jianshu.com/p/e136ec79235c
 
 
 ## 我们能否使用任何类作为Map的key
