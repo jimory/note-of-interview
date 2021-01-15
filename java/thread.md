@@ -37,6 +37,7 @@
 4. 在每个volatile读操作后面插入一个LoadStore屏障
 
 具体参考《java并发编程的艺术》
+-volatile详解 https://www.cnblogs.com/dolphin0520/p/3920373.html
 		
 ## 原子性实现机制
 处理器提供总线锁定和缓存锁定两种方式来保证复杂内存操作的原子性。
