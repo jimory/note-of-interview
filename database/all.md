@@ -81,6 +81,9 @@ http://blog.sina.com.cn/s/blog_46d817650100yj2i.html
 4. 单个索引和符合索引
 5. 聚簇索引和非聚簇索引
 
+### 聚簇索引和二级索引详解
+参考 https://zhuanlan.zhihu.com/p/137647823
+
 ## 索引失效？？
 1. WHERE字句的查询条件里有不等于号（WHERE column!=...），MYSQL将无法使用索引
 2. 如果WHERE字句的查询条件里使用了函数（如：WHERE DAY(column)=...），MYSQL将无法使用索引
